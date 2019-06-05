@@ -10,4 +10,3 @@ b = prompt('Какой тип товаров будем продавать?', ' 
 c = prompt('Какой тип товаров будем продавать?', ' ');
 mainList.shopGoods.unshift(a, b, c);
 alert ('Ваш бюджет на день: ' + mainList.budget/30);
-// да да
